@@ -17,12 +17,12 @@
     font-size: 40px;
     font-weight: 700;
     margin-top: 60px;
-    margin-left: 20px;
+    margin-left: 40px;
 }
 .text-contants p {
     color: white;
     font-weight: 300;
-    margin-left: 20px;
+    margin-left: 40px;
     
 }
 .watch-btn{
@@ -31,11 +31,12 @@
     background-color: #DD0000;
     padding: 10px 10px;
     border-radius: 3px;
-    margin-left: 20px;
+    margin-left: 40px;
     
 }
 .banner-img{
     height: 450px;
+    margin-left: 30px;
 }
 .display{
     display: flex;
@@ -92,7 +93,7 @@
 }
 .post img{
     width: 250px;
-    height: 100px;
+    height: 150px;
     
 }
 .post-text{
