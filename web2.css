@@ -17,12 +17,12 @@ main{
     font-size: 40px;
     font-weight: 700;
     margin-top: 60px;
-    margin-left: 20px;
+    margin-left: 40px;
 }
 .text-contants p {
     color: white;
     font-weight: 300;
-    margin-left: 20px;
+    margin-left: 40px;
     
 }
 .watch-btn{
@@ -31,11 +31,12 @@ main{
     background-color: #DD0000;
     padding: 10px 10px;
     border-radius: 3px;
-    margin-left: 20px;
+    margin-left: 40px;
     
 }
 .banner-img{
     height: 450px;
+    margin-left: 30px;
 }
 .display{
     display: flex;
@@ -53,7 +54,7 @@ main{
     height: 200px;
     padding: 10px;
     margin: 20px 30px;
-    
+    margin-top: 40px;
     border-radius: 5px;
     
     
@@ -76,7 +77,7 @@ main{
     border: 2px solid gray;
     border-radius: 11px;
     width: 250px;
-    height: 300px;
+    height: 200px;
     margin-top: 10px;
     
 }
@@ -90,13 +91,18 @@ main{
     
 
 }
+.post{
+    display: flex;
+    padding: 10px;
+}
 .post img{
-    width: 250px;
-    height: 100px;
+    width: 125px;
+    /* height: 100px; */
     
 }
 .post-text{
     margin-left: 10px;
+    text-align: center;
 }
 .review {
     display: flex;
